@@ -6,6 +6,8 @@
 
 This project aims to analyze and optimize the expansion of store locations. By leveraging data on inventory, products, sales, and store locations, our objective is to deliver actionable insights that will inform strategic decisions for expanding retail operations.
 
+![Screenshot 2024-09-20 082414](https://github.com/user-attachments/assets/c16fc9dd-f9d7-42ad-9241-32ec0d723df0)
+
 ### Data Sources
 
 The primary dataset utilized for this analysis is the "Mavens_Toy_Data.csv" file, which contains detailed information about company employees.
